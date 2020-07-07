@@ -1,0 +1,15 @@
+{
+    "Literal_Login":
+      {
+          "Title_User": "User",
+          "Title_Pwd":  "Pwd",
+          "Title_Login": "Log In",
+          "Title_Remember": "Remember"
+          
+      },
+      "General": 
+      {
+            "Title_App": "Pastora"
+      }
+      
+  }

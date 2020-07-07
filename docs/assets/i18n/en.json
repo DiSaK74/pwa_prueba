@@ -1,0 +1,52 @@
+{
+    "Lateral_Menu":
+    {
+        "Title_Medidas": "Measures",
+        "Title_Mapa_Calor":"Hot Map",
+        "Title_kpis": "KPIs",
+        "Title_Anomalias": "Anomalies",
+        "Title_Alarmas": "Alarms",
+        "Title_Incidencias": "Incidents",
+        "Title_Localizador_GPS": "Location GPS",
+        "Title_Medidas_Almacenadas": "M. Stored"
+    },
+    "General": 
+    {
+          "TitleApp": "Pastora",
+          "Title_Mode": "Mode",
+          "Title_Date": "Choose Date",
+          "Title_Time": "Choose Time"
+    },
+    "Medidas_Page":
+    {
+          "Title": "Measures"
+    },
+    "Mapa_Calor_Page":
+    {
+          "Title": "Hot Map"  
+    },
+    "Kpis_Page":
+    {
+          "Title": "Kpis"  
+    },"Anomalias_Page":
+    {
+          "Title": "Anomalies"  
+    },
+    "Alarmas_Page":
+    {
+          "Title": "Alarms"  
+    },
+    "Incidencias_Page":
+    {
+          "Title": "Incidents"  
+    },
+    "Localizador_Gps_Page":
+    {
+          "Title": "Location GPS"  
+    },
+    "Medidas_Almacenadas_Page":
+    {
+          "Title": "Measures stored"  
+    }
+
+}
